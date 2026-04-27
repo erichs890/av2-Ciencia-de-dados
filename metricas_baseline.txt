@@ -1,0 +1,8 @@
+RESULTADOS MODELO BASELINE (LINEAR REGRESSION)
+=======================================================
+Métrica RMSLE: 0.17543
+Métrica RMSE:  $ 36,061.40
+Métrica MAE:   $ 22,186.99
+Métrica R²:    0.83046
+-------------------------------------------------------
+Total de amostras avaliadas: 292
